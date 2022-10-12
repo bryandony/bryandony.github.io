@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bryan Donyanavard"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, San Diego State University"
+  bio              : "Assistant Professor in Computer Science at San Diego State University"
   location         : "San Diego, California"
-  employer         : "San Diego State University"
+  employer         : #"San Diego State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2PglakMAAAAJ"
   email            :
