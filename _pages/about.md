@@ -20,4 +20,4 @@ Prior to my current appointment I was a researcher at Ericsson in Stockholm with
 
 I received my PhD in Computer Science under the supervision of Professor Nikil Dutt at the School of Informatics and Computer Science, University of California, Irvine. I received my MS and BS in Computer Engineering from the University of California, Santa Barbara. I have spent time as an engineer at National Security Technologies, Oracle, and Google.
 
-My research revolves around self-aware computing systems: I work to enable resource-constrained systems to make intelligent self-management decisions at runtime, typically for high-perforance cyber-physical applications.
+My research revolves around self-aware computing systems: I work to enable resource-constrained systems to make intelligent self-management decisions at runtime, typically for high-performance cyber-physical applications.
