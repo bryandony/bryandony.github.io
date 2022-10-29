@@ -1,12 +1,9 @@
 ---
 permalink: /openings/
-title: "PhD Position (funded)"
-excerpt: "Openings"
-author_profile: true
-redirect_from: 
-  - /openings/
-  - /openings.html
+title: "Openings"
 ---
+
+## PhD Position (funded)
 
 I have multiple open positions for motivated PhD students to join my research group beginning Fall 2023. PhDs are awarded under my supervision by either UC Irvine (through the [computational science joint doctoral program](http://catalogue.uci.edu/interdisciplinarystudies/computationalscience_phd/#overviewtext)) or UC San Diego (through the [electrical and computer engineering joint doctoral program](https://www.engineering.sdsu.edu/admissions/jointdocprogram.aspx)).
 
