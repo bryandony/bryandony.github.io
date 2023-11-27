@@ -2,8 +2,9 @@
 permalink: /openings/
 title: "Openings"
 ---
+*Currently seeking students interested in GPU or HDL programming for ongoing projects*
 
-## PhD Position (with financial support)
+## PhD Position (with financial support for domestic students)
 
 I have an open position for a motivated PhD student to join my research group beginning Fall 2024. PhDs are awarded under my supervision by either UC Irvine (through the [computational science joint doctoral program](http://catalogue.uci.edu/interdisciplinarystudies/computationalscience_phd/#overviewtext)) or UC San Diego (through the [electrical and computer engineering joint doctoral program](https://www.engineering.sdsu.edu/admissions/jointdocprogram.aspx)).
 
