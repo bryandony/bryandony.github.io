@@ -21,14 +21,12 @@ Desired Experience/Knowledge:
 * Strong communication skills in written and spoken English and good presentation skills
 
 ## Current Openings
-### PhD Position (with financial support for domestic students)
+ *Currently seeking students interested in GPU or HDL programming for ongoing projects*
+
+#### PhD Position (with financial support for domestic students)
 
 I have an open position for a motivated PhD student to join my research group beginning Fall 2024. PhDs are awarded under my supervision by either UC Irvine (through the [computational science joint doctoral program](http://catalogue.uci.edu/interdisciplinarystudies/computationalscience_phd/#overviewtext)) or UC San Diego (through the [electrical and computer engineering joint doctoral program](https://www.engineering.sdsu.edu/admissions/jointdocprogram.aspx)).
 
-### Undergraduate/Graduate Projects
+#### Undergraduate/Graduate Projects
 
 Ongoing projects consistently have opportunities for undergraduate (or graduate) student contributions. See my research page and recent publications for general topics (autonomous software systems, energy-efficient cyber-physical systems, etc.). Essential skills include proficiency in Python, C++, and Linux commandline interface. Contact me if interested.
-
-*Currently seeking students interested in GPU or HDL programming for ongoing projects*
-
-
