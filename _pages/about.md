@@ -14,9 +14,9 @@ redirect_from:
 
 ---
 
-I am currently an assistant professor in Computer Science at San Diego State University. I am also affiliated with the Center for Embedded and Cyber-Physical Systems ([CECS](http://www.cecs.uci.edu/)).
+I am currently an assistant professor in Computer Science at San Diego State University.
 
-Prior to my current appointment I was a researcher at Ericsson in Stockholm with the IoT and cyber-physical systems group, with whom I continue to collaborate. I have been a researcher at CECS with the [Dutt Research Group](https://duttgroup.ics.uci.edu/), and at the chair of integrated systems at the Technical University of Munich.
+Prior to my current appointment I was a researcher at Ericsson in Stockholm with the IoT and cyber-physical systems group, with whom I continue to collaborate. I have been a researcher at [CECS](http://www.cecs.uci.edu/) with the [Dutt Research Group](https://duttgroup.ics.uci.edu/), and at the chair of integrated systems at the Technical University of Munich.
 
 I received my PhD in Computer Science under the supervision of Professor Nikil Dutt at the School of Informatics and Computer Science, University of California, Irvine. I received my MS and BS in Computer Engineering from the University of California, Santa Barbara. I have spent time as an engineer at National Security Technologies, Oracle, and Google.
 
