@@ -14,7 +14,7 @@ title: "Openings"
 **Who we are looking for:** In general, candidates should have experience in C++, and foundational knowledge in statistics and computer science/engineering. If interested, please send your resume as well as a bit about yourself and your interests to bdonyanavard@sdsu.edu.
 
 Desired Experience/Knowledge:
-* Experience in at least one of the following areas: cyber-physical systems, optimization, modeling, control systems
+* Experience in at least one of the following areas: cyber-physical systems, optimization, modeling, perception
 * Experience in the following languages: C++, Python
 * Ability to formulate problems and solve them independently and in groups
 * Strong analytical skills and ability to acquire new knowledge, apply it, and spread it to others
@@ -22,10 +22,6 @@ Desired Experience/Knowledge:
 
 ## Current Openings
  *Currently seeking students interested in GPU or HDL programming for ongoing projects*
-
-#### PhD Position (with financial support for domestic students)
-
-I have an open position for a motivated PhD student to join my research group beginning Fall 2024. PhDs are awarded under my supervision by either UC Irvine (through the [computational science joint doctoral program](http://catalogue.uci.edu/interdisciplinarystudies/computationalscience_phd/#overviewtext)) or UC San Diego (through the [electrical and computer engineering joint doctoral program](https://www.engineering.sdsu.edu/admissions/jointdocprogram.aspx)).
 
 #### Undergraduate/Graduate Projects
 
