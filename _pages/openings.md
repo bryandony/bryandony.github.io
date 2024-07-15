@@ -21,8 +21,10 @@ Desired Experience/Knowledge:
 * Strong communication skills in written and spoken English and good presentation skills
 
 ## Current Openings
- *Currently seeking students interested in GPU or HDL programming for ongoing projects*
+ *Currently seeking:*
+ - __One PhD student__ to begin Fall 2025 (application cycle Fall 2024) in the area of collaborative perception in edge networks. Contact me as soon as possible if interested.
+ - __SDSU students__ interested in GPU or HDL programming for ongoing projects.
 
 #### Undergraduate/Graduate Projects
 
-Ongoing projects consistently have opportunities for undergraduate (or graduate) student contributions. See my research page and recent publications for general topics (autonomous software systems, energy-efficient cyber-physical systems, etc.). Essential skills include proficiency in Python, C++, and Linux commandline interface. Contact me if interested.
+Ongoing projects consistently have opportunities for undergraduate (or graduate) student contributions. See my research page and recent publications for general topics (autonomous cyber-physical systems, intelligent edge systems, etc.). Essential skills include proficiency in Python, C++, and Linux commandline interface. Contact me if interested.
