@@ -9,7 +9,7 @@ title: "Openings"
 
 **Why we do it:** We target applications in Internet-of-Things (IoT) and Cyber-Physical Systems (CPS) domains, such as mobile autonomous devices and AR/XR headsets, that will become achievable with next-generation technologies like 5G networks. We augment systems with runtime intelligence necessary to practically deploy these future applications. This is an opportunity for you to demonstrate your cutting-edge ideas, energy, enthusiasm, and skill to revolutionize future connected devices and machines.
 
-**Who is interested:** We typically disseminate in top systems conferences (ASPLOS, ESWEEK, DATE) and journals (IEEE TC, ACM TECS), and collaborate with research institutions across the world (UC Irvine, TU Munich). We target application domains of interest to device and infrastructure companies (Meta, Google, Apple, Amazon).
+**Who is interested:** We typically disseminate in top systems conferences (ASPLOS, ESWEEK, DATE) and journals (IEEE TC, ACM TECS), and collaborate with research institutions across the world (UC Irvine, TU Munich, KTH). We target application domains of interest to device and infrastructure companies (Meta, Google, Apple, Amazon).
 
 **Who we are looking for:** In general, candidates should have experience in C++, and foundational knowledge in statistics and computer science/engineering. If interested, please send your resume as well as a bit about yourself and your interests to bdonyanavard@sdsu.edu.
 
