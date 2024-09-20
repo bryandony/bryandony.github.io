@@ -24,6 +24,7 @@ Desired Experience/Knowledge:
  *Currently seeking:*
  - __One PhD student__ to begin Fall 2025 (application cycle Fall 2024) in the area of collaborative perception in edge networks. Contact me as soon as possible if interested.
  - __SDSU students__ interested in GPU or HDL programming for ongoing projects.
+ - __SDSU students__ interested in evaluating realtime SLAM applications on embedded systems.
 
 #### Undergraduate/Graduate Projects
 
