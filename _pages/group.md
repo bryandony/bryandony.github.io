@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Group Members"
-permalink: /grouptest/
+permalink: /group/
 author_profile: true
 ---
 
@@ -31,6 +31,13 @@ author_profile: true
 ## Visitors
 {% for post in site.group %}
   {% if post.type == "visitor" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Former
+{% for post in site.group %}
+  {% if post.type == "former" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}

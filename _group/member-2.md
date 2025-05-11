@@ -1,6 +1,6 @@
 ---
 title: "Changhoon (Charlie) Sung"
-excerpt: "MS Student<br/><img src='/images/charlie-profile.jpeg' width='300'>"
+excerpt: "<img src='/images/charlie-profile.jpeg' width='300'>"
 collection: group
 type: "ms"
 ---

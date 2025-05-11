@@ -1,6 +1,6 @@
 ---
 title: "Adam Kaauwai"
-excerpt: "Undergraduate Student<br/><img src=''>"
+excerpt: "<img src=''>"
 collection: group
 type: "bs"
 ---

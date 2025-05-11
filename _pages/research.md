@@ -31,6 +31,9 @@ Typical outcomes include runtime policies for computational offloading [1] or re
 [3] [Donyanavard et al., MICRO'19](https://dl.acm.org/doi/abs/10.1145/3352460.3358312)<br>
 [4] [Maity et al., TECS'21](https://dl.acm.org/doi/abs/10.1145/3466875)
 
+## Projects
+* [Expanding AI Capacity in San Diego](https://expandai.sdsu.edu/)
+
 ## Media
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iGdzzA-jpNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   

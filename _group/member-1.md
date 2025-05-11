@@ -1,6 +1,6 @@
 ---
 title: "Alles Rebel"
-excerpt: "PhD Student<br/><img src='/images/rebel-profile.jpg' width='300'>"
+excerpt: "<img src='/images/rebel-profile.jpg' width='300'>"
 collection: group
 type: "phd"
 ---
