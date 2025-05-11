@@ -5,5 +5,7 @@ collection: group
 ---
 
 MS Student @ BRD Lab.
+
 Email: csung7167@sdsu.edu
+
 LinkedIn: https://www.linkedin.com/in/changhoon-sung
