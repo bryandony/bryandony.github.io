@@ -9,28 +9,28 @@ author_profile: true
 
 ## PhD Students
 {% for post in site.group %}
-  {% if member.type == "phd" %}
+  {% if post.type == "phd" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 ## MS Students
 {% for post in site.group %}
-  {% if member.type == "ms" %}
+  {% if post.type == "ms" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 ## BS Students
 {% for post in site.group %}
-  {% if member.type == "bs" %}
+  {% if post.type == "bs" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 ## Visitors
 {% for post in site.group %}
-  {% if member.type == "visitor" %}
+  {% if post.type == "visitor" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
