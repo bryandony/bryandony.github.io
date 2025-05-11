@@ -2,6 +2,7 @@
 title: "Alles Rebel"
 excerpt: "PhD Student<br/><img src='/images/rebel-profile.jpg' width='300'>"
 collection: group
+type: "phd"
 ---
 
 Joint PhD, with [Nikil Dutt](https://duttgroup.ics.uci.edu/group-members) @ UCI.

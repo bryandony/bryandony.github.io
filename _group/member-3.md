@@ -1,5 +1,6 @@
 ---
 title: "Alyssa Serrano"
 excerpt: "MS Student<br/><img src=''>"
-collection: ms
+collection: group
+type: "ms"
 ---

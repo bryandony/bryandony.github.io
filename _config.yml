@@ -198,9 +198,6 @@ collections:
   group:
     output: true
     permalink: /:collection/:path/
-  ms:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site

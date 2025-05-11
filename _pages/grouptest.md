@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group"
+title: "Group Members"
 permalink: /grouptest/
 author_profile: true
 ---
@@ -9,15 +9,28 @@ author_profile: true
 
 ## PhD Students
 {% for post in site.group %}
-  {% include archive-single.html %}
+  {% if member.type == "phd" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 ## MS Students
-{% for post in site.ms %}
-  {% include archive-single.html %}
+{% for post in site.group %}
+  {% if member.type == "ms" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 ## BS Students
-{% for post in site.bs %}
-  {% include archive-single.html %}
+{% for post in site.group %}
+  {% if member.type == "bs" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Visitors
+{% for post in site.group %}
+  {% if member.type == "visitor" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
