@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
     
   - title: "Publications"
     url: https://scholar.google.com/citations?user=2PglakMAAAAJ&hl=en
@@ -17,7 +17,7 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Group"
+  - title: "Research Group"
     url: https://brdsdsu.github.io/
 
 #  - title: "Teaching"
